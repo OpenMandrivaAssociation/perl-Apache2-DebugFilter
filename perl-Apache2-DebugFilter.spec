@@ -13,6 +13,7 @@ BuildRequires:	apache-mod_perl
 BuildRequires:	perl(Apache::Test) >= 1.25
 BuildRequires:  apache-mod_perl-devel
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Apache2::DebugFilter - Debug mod_perl and native Apache2 filters.
