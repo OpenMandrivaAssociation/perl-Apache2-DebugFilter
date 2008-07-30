@@ -3,7 +3,7 @@
 Summary:	Apache2::DebugFilter - Debug mod_perl and native Apache2 filters
 Name:		perl-%{real_name}
 Version:	0.02
-Release:	%mkrel 4
+Release:	%mkrel 6
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
