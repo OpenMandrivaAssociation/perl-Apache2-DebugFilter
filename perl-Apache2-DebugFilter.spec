@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	5
 
 Summary:	Apache2::DebugFilter - Debug mod_perl and native Apache2 filters
 License:	GPL+ or Artistic
