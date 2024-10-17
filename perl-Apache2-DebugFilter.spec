@@ -8,7 +8,7 @@ Release:	5
 Summary:	Apache2::DebugFilter - Debug mod_perl and native Apache2 filters
 License:	GPL+ or Artistic
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{upstream_name}
+URL:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Apache2/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	apache-mod_perl
